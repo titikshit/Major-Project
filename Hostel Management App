@@ -1,9 +1,9 @@
 HOSTEL MANAGEMENT APP:
 
-1. Student Profiles**: Maintain all student details like name, room number, and fee status in one place.  
-2. Notice Board**: A section for wardens to post important announcements, accessible to all students.  
-3. Fee Notifications**: Automated reminders for upcoming or overdue payments.  
-4. Complaint Section**: Students can submit complaints directly through the app, and wardens can track and resolve them easily.  
-5. Additional Features**: Optional add-ons like attendance tracking or a section for hostel rules and emergency contacts can be included later.  
+1. Student Profiles: Maintain all student details like name, room number, and fee status in one place.  
+2. Notice Board: A section for wardens to post important announcements, accessible to all students.  
+3. Fee Notifications: Automated reminders for upcoming or overdue payments.  
+4. Complaint Section: Students can submit complaints directly through the app, and wardens can track and resolve them easily.  
+5. Additional Features: Optional add-ons like attendance tracking or a section for hostel rules and emergency contacts can be included later.  
 
 The goal is to create a simple, user-friendly app that reduces manual effort and keeps everything organized for both wardens and students.
